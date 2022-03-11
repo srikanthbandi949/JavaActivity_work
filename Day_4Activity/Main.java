@@ -1,7 +1,7 @@
 package Day_4Activity;
 
 import java.util.*;
-public class Main {
+public class Main{
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the Match Format");
